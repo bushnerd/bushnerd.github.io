@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: bushnerd.github.io/quartz
+  baseUrl: bushnerd.github.io
   ignorePatterns:
     - private
     - templates

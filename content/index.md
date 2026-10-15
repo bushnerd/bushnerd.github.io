@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz sss
+title: Welcome to Quartz
 ---
 
 This is a blank Quartz installation.
