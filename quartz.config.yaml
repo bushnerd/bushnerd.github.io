@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: 山野书阁
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -113,7 +113,7 @@ plugins:
   - source: "@quartz-themes/core"
     enabled: true
     options:
-      theme: default
+      theme: catppuccin
       mode: both
   - source: "@quartz-community/remove-draft"
     enabled: true
@@ -230,7 +230,7 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
+        GitHub: https://github.com/bushnerd
         Discord Community: https://discord.gg/cRFFHYye7t
     layout:
       position: footer
